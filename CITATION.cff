@@ -4,7 +4,7 @@ authors:
 - family-names: "Aksoy"
   given-names: "Mehmet Çağrı"
   orcid: " https://orcid.org/0000-0002-7886-7945 "
-title: "Object Recognition in EuroSAT Satellite Images using Wide and Deep Learning Models"
-version: 1.0
+title: "Land Classification in Satellite Images by Injecting Traditional Features to CNN Models"
+version: 1.1
 date-released: 2022
-url: "https://github.com/mcagriaksoy"
+url: "https://arxiv.org/abs/2207.10368"
